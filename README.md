@@ -6,11 +6,9 @@ a simple food app developed with react
 
 ---
 
-1. [React.js](https://reactjs.org/)
-2. [Redux Toolkit](https://redux-toolkit.js.org/)
-3. [ReactStrap](https://reactstrap.github.io/?path=/story/home-installation--page)
-4. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-5. [Firebase](https://firebase.google.com/)
+- [React.js](https://reactjs.org/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Firebase](https://firebase.google.com/)
 
 ## Install
 
@@ -28,11 +26,6 @@ npm start
 ## Demo
 
 ![](./public/demo.gif)
-
-## Screenshot
-
-<!-- ![](./public/meals.png) -->
-<img src="public\meals.png" width="950" height="500">
 
 ## Contributor
 
