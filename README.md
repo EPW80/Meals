@@ -1,4 +1,4 @@
-# React-based Meal Planner Application
+# React-based Meal Application
 
 A sleek and simple meal planning application designed to make your meal decisions easier. Built using React, this application provides a user-friendly interface to explore various dishes.
 
