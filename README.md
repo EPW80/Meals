@@ -23,7 +23,7 @@ Start the application with npm start.
 
 ## Demo
 
-![](./public/demo.gif)
+[](./public/demo.gif)
 
 ## Deployment
 
