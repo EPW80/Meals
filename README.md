@@ -1,31 +1,33 @@
-# Meal application
+# React-based Meal Planner Application
 
-a simple food app developed with react
+A sleek and simple meal planning application designed to make your meal decisions easier. Built using React, this application provides a user-friendly interface to explore various dishes.
 
-## Built
+## Technologies Used
 
 ---
 
-- [React.js](https://reactjs.org/)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Firebase](https://firebase.google.com/)
+- [React.js](https://reactjs.org/) A flexible and efficient JavaScript library for building user interfaces.
 
-## Install
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) Cascading Style Sheets, a style-sheet language used for describing the look and formatting of a document written in HTML.
 
-```javascript
-// first install all necessary dependencies
+- [Firebase](https://firebase.google.com/) A comprehensive mobile development platform from Google, providing a variety of functionalities such as a real-time database, user authentication, and hosting.
 
-npm i
+## Installation & Setup
 
-// next run
-
-npm start
-
+```
+Clone the repository to your local system.
+Navigate to the project's directory.
+Install the required dependencies using npm i.
+Start the application with npm start.
 ```
 
 ## Demo
 
 ![](./public/demo.gif)
+
+## Deployment
+
+![GitHub pages](https://github.com/EPW80/Meals.git)
 
 ## Contributor
 
