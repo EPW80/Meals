@@ -23,11 +23,11 @@ Start the application with npm start.
 
 ## Demo
 
-[](./public/demo.gif)
+![](./public/demo.gif)
 
 ## Deployment
 
-![GitHub pages](https://github.com/EPW80/Meals.git)
+[GitHub pages](https://github.com/EPW80/Meals.git)
 
 ## Contributor
 
